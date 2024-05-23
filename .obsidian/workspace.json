@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "0a3e6f8618881d40",
+        "id": "cab495656820a4e8",
         "type": "tabs",
         "children": [
           {
-            "id": "cf250a80fa80b2ad",
+            "id": "6d13e835cf9be576",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "methodologies/ethical hecking/resources/sites.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "4aec2150deeb541a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binary-exploitation/relocation-read-only.md",
+                "file": "ctf101/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Ports",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "binary-exploitation/relocation-read-only.md",
+                "file": "ctf101/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "binary-exploitation/relocation-read-only.md",
+                "file": "ctf101/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "binary-exploitation/relocation-read-only.md"
+                "file": "ctf101/index.md"
               }
             }
           }
@@ -133,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,13 +161,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf250a80fa80b2ad",
+  "active": "4aec2150deeb541a",
   "lastOpenFiles": [
-    "binary-exploitation/stack-canaries.md",
-    "binary-exploitation/heap-exploitation.md",
-    "binary-exploitation/overview.md",
-    "binary-exploitation/address-space-layout-randomization.md",
-    "binary-exploitation/buffer-overflow.md",
-    "index.md"
+    "methodologies/ethical hecking/resources/sites.md",
+    "methodologies/ethical hecking/resources/stabilize the shell.md",
+    "methodologies/ethical hecking/1_recon/scanning.md",
+    "methodologies/ethical hecking/2_gaining access/linux.md",
+    "methodologies/ethical hecking/2_gaining access/web.md",
+    "methodologies/ethical hecking/2_gaining access/windows.md",
+    "methodologies/ethical hecking/3_post exploit/windows post exploit.md",
+    "methodologies/ethical hecking/3_post exploit/linux post exploit.md",
+    "methodologies/ethical hecking/4_privilege escalation/linux/basics.md",
+    "methodologies/ethical hecking/4_privilege escalation/docker/basics.md",
+    "methodologies/ethical hecking/3_post exploit",
+    "methodologies/ethical hecking/Untitled",
+    "GTFObins.md",
+    "[[stabilizing.md",
+    "methodologies/ethical hecking/2_gaining access/windows",
+    "methodologies/ethical hecking/4_privilege escalation/docker",
+    "ctf101/web-exploitation/overview.md",
+    "ctf101/challenges/2016/Web/cloudb.md",
+    "methodologies/ethical hecking/4_privilege escalation/windows",
+    "methodologies/ethical hecking/4_privilege escalation/linux",
+    "methodologies/ethical hecking/resources/tool installation.md",
+    "methodologies/ethical hecking/resources/impacket.md",
+    "methodologies/ethical hecking/resources/Bloodhound and Neo4j.md",
+    "methodologies/images/stabilizing-shell-tech-3.png",
+    "methodologies/ethical hecking/resources.md",
+    "methodologies/images",
+    "methodologies/images/stabilizing-shell-tech-1.png",
+    "methodologies/ethical hecking/resources",
+    "methodologies/ethical hecking/evasion/unloading sysmon driver.md",
+    "methodologies/ethical hecking/evasion",
+    "methodologies/ethical hecking/resources",
+    "binary-exploitation/relocation-read-only.md",
+    "ctf101/images/favicon/flag.svg",
+    "ctf101/images/favicon/flag-fill.svg",
+    "ctf101/images/favicon/book.svg",
+    "ctf101/images/favicon/book-half.svg",
+    "ctf101/images/favicon/book-fill.svg",
+    "ctf101/images/web.png",
+    "ctf101/images/reversing.png",
+    "ctf101/images/forensics.png",
+    "ctf101/forensics/what-is-wireshark.md",
+    "ctf101/forensics/what-is-stegonagraphy.md",
+    "ctf101/forensics/what-is-metadata.md",
+    "ctf101/forensics/what-is-disk-imaging.md",
+    "ctf101/forensics/what-is-a-hex-editor.md",
+    "ctf101/forensics/what-is-memory-forensics.md"
   ]
 }

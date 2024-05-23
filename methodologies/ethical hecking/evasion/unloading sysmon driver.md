@@ -1,0 +1,1 @@
+https://www.ired.team/offensive-security/defense-evasion/unloading-sysmon-driver
